@@ -1,0 +1,61 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "BREAKING: GitHub accidentally leaked GPT-5 details (proof inside)",
+      "description": "GitHub posted the GPT-5 is live and then immediately deleted it.",
+      "poster": "https://media.daily.dev/image/upload/s--CW8Z2HMQ--/f_auto/v1754572898/posts/SoDEg10rm?_a=BAMClqZW0",
+      "publishedAt": "2025-08-07",
+      "originalUrl": "https://app.daily.dev/posts/breaking-github-accidentally-leaked-gpt-5-details-proof-inside--7wlsdnvpj",
+      "author": "Nimrod Kramer",
+      "category": "AI"
+    },
+    {
+      "id": "2",
+      "title": "Have I Been Pwned 2.0 is Now Live!",
+      "description": "The revamped Have I Been Pwned website has been launched",
+      "poster": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/cfb20b22b2405978436e1c158a98da35?_a=AQAEuj9",
+      "publishedAt": "2025-08-10",
+      "originalUrl": "https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/",
+      "author": "Troy Hunt",
+      "category": "Tech"
+    },
+    {
+      "id": "3",
+      "title": "Dev Tools: The Ultimate All-in-One Toolkit for Developers",
+      "description": "As developers, we often find ourselves jumping between multiple websites to encode a string, format a JSON, test a regex, or generate a UUID",
+      "poster": "https://media.daily.dev/image/upload/s--JbbN8JwC--/f_auto/v1754300998/posts/FcEMLvY2v?_a=BAMClqZW0",
+      "publishedAt": "2025-08-11",
+      "originalUrl": "https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as",
+      "author": "Saiyan Growth",
+      "category": "Developer"
+    },
+    {
+      "id": "4",
+      "title": "SSG vs SSR in Next.js 15!",
+      "description": "Next.js 15 makes server-side rendering the default",
+      "poster": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/dc927a4f1beba55479ddce9a916f7f21?_a=AQAEuj9",
+      "publishedAt": "2025-05-27",
+      "originalUrl": "https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev",
+      "author": "Hadil",
+      "category": "Coding"
+    },
+    {
+      "id": "5",
+      "title": "Inspira UI",
+      "description": "Inspira UI is introduced as a tool to build beautiful websites using Vue and Nuxt.",
+      "poster": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/81fdc02c97ad19c25da360920a9cd26b?_a=AQAEuj9",
+      "publishedAt": "2025-08-12",
+      "originalUrl": "https://inspira-ui.com/",
+      "author": "Bob Vasic",
+      "category": "UI"
+    },
+    {
+      "id": "176a",
+      "title": "Sample",
+      "description": "sample",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qQJjKRmJYHkLw-a7mTIETIIdvlLIkQuiIVgbgRcil1-E8WytmUprBwclqlaSLTT2ynQx_Q&s",
+      "createdAt": "2025-08-15T20:45:40.987Z"
+    }
+  ]
+}
