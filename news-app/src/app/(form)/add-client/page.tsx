@@ -95,11 +95,11 @@ export default function AddMoment() {
         <div className="md:w-1/2 flex justify-center items-center text-gray-700 dark:text-white text-lg font-normal p-6">
           <div className="text-center">
             <h1 className="text-2xl font-semibold py-4">Share Your Moment</h1>
-            Share any important moments that you think people should know about.
+            Share a ny important moments that you think people should know about.
             Tell us what you want to convey, and if needed, we will contact you
             for more detailed information. Everything you share has the chance
-            to be featured on our news page.
-          </div>
+            to be featured on our news page ok.
+          </div>  
         </div>
 
         <div className="md:w-1/2">
