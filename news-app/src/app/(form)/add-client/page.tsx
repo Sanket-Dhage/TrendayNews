@@ -106,7 +106,7 @@ export default function AddMoment() {
           <form onSubmit={handleSubmit} className="flex flex-col gap-4">
             <div className="flex flex-col gap-2">
               <label htmlFor="title" className="text-lg font-medium">
-                Title of News / Moment
+                Title of News
               </label>
               <input
                 type="text"
