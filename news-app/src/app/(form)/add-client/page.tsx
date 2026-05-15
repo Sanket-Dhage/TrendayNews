@@ -121,7 +121,7 @@ export default function AddMoment() {
 
             <div className="flex flex-col gap-2">
               <label htmlFor="description" className="text-lg font-medium">
-                Describe the moment
+                Describe moment
               </label>
               <textarea
                 id="description"
